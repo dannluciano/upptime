@@ -4,9 +4,9 @@
     "url": "https://sendit.dannluciano.com.br",
     "icon": "https://favicons.githubusercontent.com/sendit.dannluciano.com.br",
     "slug": "send-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 878,
     "timeMonth": 878,
     "timeYear": 878,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "Orgânicos Zabelê",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/www.ifpi.edu.br",
     "slug": "ifpi",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 1113,
     "timeDay": 1073,
     "timeWeek": 1113,
