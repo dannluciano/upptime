@@ -10,12 +10,10 @@ sites:
     url: https://www.organicosrn.eco.br
   - name: NextCloud
     url: https://cloud.dannluciano.com.br
-  - name: IFPI
-    url: https://www.ifpi.edu.br/
+  - name: Teste de Aptidão Musical
+    url: http://testedeaptidaomusical.dannluciano.com.br/
   - name: LiveBoards
     url: https://liveboards.herokuapp.com/
-    
-
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
