@@ -13,7 +13,7 @@
     "time": 960,
     "timeDay": 950,
     "timeWeek": 965,
-    "timeMonth": 947,
+    "timeMonth": 950,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2021-03-12": 141,
@@ -50,7 +50,7 @@
     "time": 507,
     "timeDay": 565,
     "timeWeek": 566,
-    "timeMonth": 494,
+    "timeMonth": 499,
     "timeYear": 507,
     "dailyMinutesDown": {}
   },
@@ -68,7 +68,7 @@
     "time": 579,
     "timeDay": 675,
     "timeWeek": 719,
-    "timeMonth": 690,
+    "timeMonth": 700,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2021-01-16": 1174,
