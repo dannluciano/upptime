@@ -1,7 +1,7 @@
 url: https://sendit.dannluciano.com.br
-status: up
-code: 200
-responseTime: 837
-lastUpdated: 2021-11-29T23:21:03.346Z
+status: down
+code: 502
+responseTime: 783
+lastUpdated: 2021-11-30T19:26:14.783Z
 startTime: Sun Jan 03 2021 13:59:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
