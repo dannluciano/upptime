@@ -1,7 +1,7 @@
 url: https://cloud.dannluciano.com.br
-status: up
-code: 200
-responseTime: 1081
-lastUpdated: 2022-01-08T23:21:00.546Z
+status: down
+code: 500
+responseTime: 688
+lastUpdated: 2022-01-09T06:14:12.989Z
 startTime: Sun Jan 03 2021 13:59:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
