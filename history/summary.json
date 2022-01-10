@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/sendit.dannluciano.com.br",
     "slug": "send-it",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 1056,
-    "timeDay": 1086,
-    "timeWeek": 1042,
-    "timeMonth": 1378,
+    "time": 1055,
+    "timeDay": 855,
+    "timeWeek": 1052,
+    "timeMonth": 1249,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2021-03-12": 141,
@@ -32,8 +32,7 @@
       "2021-01-31": 23,
       "2021-01-27": 26,
       "2021-01-18": 46,
-      "2021-01-16": 90,
-      "2021-01-10": 36
+      "2021-01-16": 90
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 696,
-    "timeWeek": 573,
-    "timeMonth": 599,
-    "timeYear": 563,
+    "timeDay": 323,
+    "timeWeek": 574,
+    "timeMonth": 585,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 662,
-    "timeDay": 940,
-    "timeWeek": 851,
-    "timeMonth": 784,
+    "time": 661,
+    "timeDay": 723,
+    "timeWeek": 847,
+    "timeMonth": 774,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2021-01-16": 1174,
