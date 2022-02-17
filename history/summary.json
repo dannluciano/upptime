@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 1121,
-    "timeDay": 842,
-    "timeWeek": 2053,
-    "timeMonth": 1313,
+    "uptimeYear": "99.83%",
+    "time": 1120,
+    "timeDay": 837,
+    "timeWeek": 2058,
+    "timeMonth": 1316,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2021-03-12": 141,
       "2021-03-09": 84,
-      "2021-02-28": 647,
-      "2021-02-17": 83
+      "2021-02-28": 647
     }
   },
   {
@@ -34,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 577,
-    "timeWeek": 584,
-    "timeMonth": 619,
+    "timeDay": 630,
+    "timeWeek": 633,
+    "timeMonth": 628,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -46,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/cloud.dannluciano.com.br",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 663,
-    "timeWeek": 723,
-    "timeMonth": 754,
-    "timeYear": 691,
+    "timeDay": 702,
+    "timeWeek": 754,
+    "timeMonth": 761,
+    "timeYear": 692,
     "dailyMinutesDown": {}
   }
 ]
