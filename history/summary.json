@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/sendit.dannluciano.com.br",
     "slug": "send-it",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1144,
-    "timeDay": 1014,
-    "timeWeek": 955,
-    "timeMonth": 1744,
+    "timeDay": 884,
+    "timeWeek": 948,
+    "timeMonth": 1442,
     "timeYear": 1175,
-    "dailyMinutesDown": {
-      "2021-03-12": 141
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Orgânicos Zabelê",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 803,
-    "timeWeek": 754,
-    "timeMonth": 744,
-    "timeYear": 599,
+    "time": 581,
+    "timeDay": 1289,
+    "timeWeek": 826,
+    "timeMonth": 759,
+    "timeYear": 602,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 905,
-    "timeWeek": 893,
-    "timeMonth": 864,
-    "timeYear": 714,
+    "timeDay": 690,
+    "timeWeek": 858,
+    "timeMonth": 857,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   }
 ]
