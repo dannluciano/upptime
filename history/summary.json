@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/sendit.dannluciano.com.br",
     "slug": "send-it",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 1015,
-    "timeWeek": 1282,
-    "timeMonth": 1523,
-    "timeYear": 1183,
+    "time": 1154,
+    "timeDay": 856,
+    "timeWeek": 1245,
+    "timeMonth": 1518,
+    "timeYear": 1184,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 1066,
-    "timeWeek": 873,
-    "timeMonth": 821,
-    "timeYear": 612,
+    "timeDay": 687,
+    "timeWeek": 773,
+    "timeMonth": 810,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
-    "timeDay": 1907,
-    "timeWeek": 1211,
-    "timeMonth": 969,
-    "timeYear": 733,
+    "timeDay": 713,
+    "timeWeek": 1165,
+    "timeMonth": 963,
+    "timeYear": 734,
     "dailyMinutesDown": {}
   }
 ]
