@@ -40,17 +40,17 @@
     "url": "https://cloud.dannluciano.com.br",
     "icon": "https://favicons.githubusercontent.com/cloud.dannluciano.com.br",
     "slug": "next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 2320,
-    "timeWeek": 1396,
-    "timeMonth": 1060,
-    "timeYear": 747,
+    "time": 705,
+    "timeDay": 1933,
+    "timeWeek": 1370,
+    "timeMonth": 1063,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   }
 ]
