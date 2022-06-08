@@ -4,7 +4,7 @@
     "url": "https://sendit.dannluciano.com.br",
     "icon": "https://favicons.githubusercontent.com/sendit.dannluciano.com.br",
     "slug": "send-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 1138,
     "timeWeek": 695,
     "timeMonth": 736,
-    "timeYear": 798,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   }
 ]
