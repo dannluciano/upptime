@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1142,
     "timeDay": 0,
-    "timeWeek": 1459,
-    "timeMonth": 1039,
-    "timeYear": 1187,
+    "timeWeek": 1321,
+    "timeMonth": 1044,
+    "timeYear": 1188,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 940,
-    "timeWeek": 641,
+    "time": 622,
+    "timeDay": 668,
+    "timeWeek": 688,
     "timeMonth": 607,
-    "timeYear": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/cloud.dannluciano.com.br",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
-    "timeDay": 1018,
-    "timeWeek": 652,
-    "timeMonth": 683,
-    "timeYear": 797,
+    "timeDay": 735,
+    "timeWeek": 691,
+    "timeMonth": 679,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   }
 ]
